@@ -40,6 +40,3 @@ Built an interactive Power BI dashboard to analyze mobile phone sales across dif
 - Maintain inventory before peak sales months.
 - Promote best-selling models during festive seasons.
 - Offer EMI and cashback options to boost premium smartphone sales.
-  nsert Dashboard Screenshot Here)* Files Included
-- 📊 Mobile Sales Dashboard.pbix
-- 📄 Insights & Recomm
